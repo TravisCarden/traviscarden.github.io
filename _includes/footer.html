@@ -4,7 +4,14 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-span">
-        <div>Copyright &copy; Travis Carden. All rights reserved.</div>
+        <div>
+          {% if page.license == "CC BY 4.0" %}
+            This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />
+            You are free, among other things, to print it and share it with others.
+          {% else %}
+            Copyright &copy; Travis Carden. All rights reserved.
+          {% endif %}
+        </div>
         <div class="no-screen">{{ page.url | prepend: site.url }}</div>
       </div>
     </div>

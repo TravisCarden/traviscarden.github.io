@@ -2,6 +2,7 @@
 layout: post
 title: Deity of Christ Verse List
 date: 2014-03-10 20:33:22 -0600
+license: CC BY 4.0
 ---
 
 The doctrine of the deity of Christ says that Jesus possesses a truly divine nature. It does not deny that he possesses a truly human nature also, with all of its attendant properties intact and unconfused (which is the corresponding doctrine of the hypostatic union or dual natures of Christ). But it affirms that he is as to his deity, in the language of the Nicene Creed, "the only Son of God, eternally begotten of the Father, God from God, Light from Light, true God from true God, begotten, not made, of one Being with the Father." Here is a sweeping survey of the biblical support for the doctrine.
