@@ -5,5 +5,7 @@ description: Online home of Travis Carden, Christian, web developer.
 url: "http://traviscarden.com"
 
 # Build settings
+gems:
+  - jekyll-redirect-from
 markdown: kramdown
 permalink: /:slug
