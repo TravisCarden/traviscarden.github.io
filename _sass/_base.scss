@@ -204,3 +204,22 @@ pre {
         }
     }
 }
+
+
+
+/**
+ * Media-specific styles
+ */
+@media screen {
+    .no-screen {
+        visibility: hidden;
+        display: none;
+    }
+}
+
+@media print {
+    .no-print {
+        visibility: hidden;
+        display: none;
+    }
+}
