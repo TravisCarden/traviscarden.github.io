@@ -4,20 +4,15 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <img id="home-photo" src="{{ "/images/photo.jpg" | prepend: site.baseurl }}" />
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <p>I'm Travis Carden. I live in Nebraska. I work at <a href="https://www.acquia.com/">Acquia</a>.</p>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
+  <ul id="home-links">
+    <li><a class="fa fa-drupal" href="https://www.drupal.org/u/traviscarden" title="Drupal.org"></a></li>
+    <li><a class="fa fa-github" href="https://github.com/TravisCarden" title="GitHub"></a></li>
+    <li><a class="fa fa-linkedin" href="http://www.linkedin.com/in/traviscarden" title="LinkedIn"></a></li>
+    <li><a class="fa fa-amazon" href="http://amzn.com/w/182TJPYITW9KM" title="Amazon Wishlist"></a></li>
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
