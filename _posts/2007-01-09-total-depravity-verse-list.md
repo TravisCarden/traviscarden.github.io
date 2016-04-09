@@ -11,6 +11,8 @@ redirect_from: /writing/total-depravity-verse-list
 
 The doctrine of total depravity (or total inability) says that all men, as a consequence of the Fall, are born morally corrupt, enslaved to sin, at enmity with God, and unable to please Him or even of themselves to turn to Christ for salvation. (Thus the necessity of a gracious, unconditional election.) Here is a sweeping survey of the biblical support for the doctrine.
 
+{% include esv-copyright.md %}
+
 * TOC
 {:toc}
 
