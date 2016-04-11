@@ -3,10 +3,10 @@ layout: post
 title: Total Depravity Verse List
 date: 2007-01-09 00:00:00 -0600
 license: CC BY 4.0
-redirect_from: /archive/2007/01/08/total-depravity-verse-list
-redirect_from: /articles/total-depravity-verse-list
-redirect_from: /resources/verse-lists/total-depravity
-redirect_from: /writing/total-depravity-verse-list
+redirect_from: "/archive/2007/01/08/total-depravity-verse-list"
+redirect_from: "/articles/total-depravity-verse-list"
+redirect_from: "/resources/verse-lists/total-depravity"
+redirect_from: "/writing/total-depravity-verse-list"
 ---
 
 The doctrine of total depravity (or total inability) says that all men, as a consequence of the Fall, are born morally corrupt, enslaved to sin, at enmity with God, and unable to please Him or even of themselves to turn to Christ for salvation. (Thus the necessity of a gracious, unconditional election.) Here is a sweeping survey of the biblical support for the doctrine.
