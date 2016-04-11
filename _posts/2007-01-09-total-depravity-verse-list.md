@@ -94,7 +94,7 @@ c.f. Genesis 3:16; Psalm 4:2, 52:3-4 140:8; Proverbs 10:23; 2 Timothy 3:2-4; 2 P
 - **Jeremiah 13:23** - Can the Ethiopian change his skin or the leopard his spots? Then also you can do good who are accustomed to do evil.
 - **1 Samuel 24:13** - "As the proverb of the ancients says, 'Out of the wicked comes wickedness.'"
 - **Matthew 7:18** - "A healthy tree _cannot_ bear bad fruit, _nor can_ a diseased tree bear good fruit." (c.f. Luke 6:43)
-- **Matthew 12:34****-35** - "How can you speak good, when you are evil? For out of the abundance of the heart the mouth speaks. The good person out of his good treasure brings forth good, and _the evil person out of his evil treasure brings forth evil_."
+- **Matthew 12:34-35** - "How can you speak good, when you are evil? For out of the abundance of the heart the mouth speaks. The good person out of his good treasure brings forth good, and _the evil person out of his evil treasure brings forth evil_."
 - **Romans 8:7** - For the mind that is set on the flesh is hostile to God, for _it does not submit to God’s law; indeed, it cannot_.
 - **Genesis 6:5 & 8:21** - The Lord saw that the wickedness of man was great in the earth, and that _every intention of the thoughts of his heart was only evil continually... from youth._
 - **Titus 1:15-16** - to the defiled and unbelieving, _nothing is pure_; but both their minds and their consciences are defiled. They profess to know God, but they deny him by their works. They are detestable, disobedient, _unfit for any good work_.
