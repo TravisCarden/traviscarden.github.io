@@ -208,5 +208,5 @@ c.f. 1 Corinthians 1:28-29, 4:7; Ephesians 2:9-9
 - Boettner, Lorraine. [Total Inability](http://www.ccel.org/ccel/boettner/predest.iv.ii.html). In _The Reformed Doctrine of Predestination_.
 - Boston, Thomas. The State of Nature. In [_Human Nature in its Fourfold State_](http://www.gracegems.org/28/human_nature.htm).
 - Calvin, John. [Book 2](http://www.ccel.org/ccel/calvin/institutes.iv.html), Chapters 1-5\. In _Institutes of the Christian Religion_.
-- Luther, Martin. [_The Bondage of the Will_](http://www.covenanter.org/Luther/Bondage/bow_toc.htm).
+- Luther, Martin. [_The Bondage of the Will_](http://www.ccel.org/ccel/luther/bondage.html).
 - Edwards, Jonathan. [_Freedom of the Will_](http://www.ccel.org/ccel/edwards/will.html) _(The Works of Jonathan Edwards, Vol. 1)_.
