@@ -6,7 +6,6 @@ license: CC BY 4.0
 redirect_from:
   - /archive/2007/01/08/total-depravity-verse-list
   - /articles/total-depravity-verse-list
-  - /resources/verse-lists/total-depravity
   - /writing/total-depravity-verse-list
 ---
 
