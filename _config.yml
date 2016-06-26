@@ -2,10 +2,11 @@
 title: Travis Carden
 email: travis.carden@gmail.com
 description: Online home of Travis Carden, Christian, web developer.
-url: http://www.traviscarden.com
+url: http://traviscarden.com
 
 # Build settings
 gems:
   - jekyll-redirect-from
+  - jekyll-sitemap
 markdown: kramdown
 permalink: /:slug
