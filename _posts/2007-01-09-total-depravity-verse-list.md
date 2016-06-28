@@ -4,6 +4,7 @@ title: Total Depravity Verse List
 date: 2007-01-09 00:00:00 -0600
 license: CC BY 4.0
 redirect_from:
+  - /~travisca/total-depravity-verse-list
   - /archive/2007/01/08/total-depravity-verse-list
   - /articles/total-depravity-verse-list
   - /resources/verse-lists/total-depravity/
