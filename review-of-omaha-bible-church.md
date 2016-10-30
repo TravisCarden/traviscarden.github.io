@@ -18,6 +18,10 @@ Sermons at OBC tend to be of a good length, center on Scripture, and emphasize t
 
 In summary, I believe that while the preaching at OBC has some admirable qualities, its defects render it on the whole dishonoring to God and harmful to its hearers.
 
+# Leadership
+
+OBC's leaders give every appearance of caring deeply about their church, and they clearly work hard in their roles. They seem, however, to misunderstand the nature of their authority, which they tend to lord over tender souls in their care. They are friendly people in general, but when it comes to shepherding, they tend to be impatient, controlling, and intolerant of dissent. I would go so far as to say that some of the pastors can be abusive. Worst of all, they altogether lack biblical accountability. They are self-protective to the extent that I have known them to collectively flout Matthew 18 when applied to one of themselves. They seem to me to not to be above reproach so much as above the law.
+
 # Coming up…
 
-Biblical theology, the gospel, conversion, evangelism, membership, discipline, discipleship, and leadership, as I get to them.
+Biblical theology, the gospel, conversion, evangelism, membership, discipline, and discipleship, as I get to them.
