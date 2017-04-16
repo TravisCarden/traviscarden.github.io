@@ -285,6 +285,7 @@ Yet the Son, not the Father, will judge.
 
 ## Significance of the doctrine
 
+- **1 John 4:1-3** - Beloved, do not believe every spirit, but test the spirits to see whether they are from God, for many false prophets have gone out into the world. By this you know the Spirit of God: every spirit that confesses that Jesus Christ has come in the flesh is from God, and _every spirit that does not confess Jesus is not from God_. This is the spirit of the antichrist, which you heard was coming and now is in the world already.
 - **John 8:24** - I told you that you would die in your sins, for unless you believe that _I am_ ~~he~~[^i-am-he] you will die in your sins."
 
 ## Footnotes
