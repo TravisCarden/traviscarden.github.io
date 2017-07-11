@@ -8,7 +8,10 @@ Omaha Bible Church (OBC), in Omaha, Nebraska, is an independent Bible church wit
 
 **Note:** As this is a critical review, I wish to clarify up-front that it refers to OBC _as a ministry_ and is not directed at any of the fine people who attend there.
 
-# Preaching
+* TOC
+{:toc}
+
+# I. Preaching
 
 Sermons at OBC tend to be of a good length, center on Scripture, and emphasize truth. Notwithstanding these things (which are good so far as they go), a number of characteristics of the preaching at OBC render it, in my judgment, something between unedifying and positively toxic. Two stand out:
 
@@ -18,13 +21,13 @@ Sermons at OBC tend to be of a good length, center on Scripture, and emphasize t
 
 In summary, I believe that while the preaching at OBC has some admirable qualities, its defects render it on the whole dishonoring to God and harmful to its hearers.
 
-# Leadership
-
-OBC's leaders give every appearance of caring deeply about their church, and they clearly work hard in their roles. They seem, however, to misunderstand the nature of their authority, which they tend to lord over tender souls in their care. They are friendly people in general, but when it comes to shepherding, they tend to be impatient, controlling, and intolerant of dissent. I would go so far as to say that some of the pastors can be abusive. Worst of all, they altogether lack biblical accountability. They are self-protective to the extent that I have known them to collectively flout Matthew 18 when applied to one of themselves. They seem to me not to be above reproach so much as above the law.
-
-# Discipline
+# VII. Discipline
 
 The best thing I can say of OBC relative to church discipline is that they attempt to practice it at all--which, in an age of individualism that chafes at any hint of accountability, is saying _something_. Nevertheless, they pervert the practice so entirely that I'm afraid it might have been the lesser evil to have omitted it altogether. From disciplining where they acknowledge there has been no sin, to disciplining preemptively or retributively, to skipping whole steps of the Matthew 18 process, to refusing eventual reconciliation, to exempting pastors from accountability to the same process, and more, they have not failed in very many particulars to mock the biblical practice. The leaders have declined to discuss these matters when confronted. Suffice it to say that it is a point of unrepentant corporate sin.
+
+# IX. Leadership
+
+OBC's leaders give every appearance of caring deeply about their church, and they clearly work hard in their roles. They seem, however, to misunderstand the nature of their authority, which they tend to lord over tender souls in their care. They are friendly people in general, but when it comes to shepherding, they tend to be impatient, controlling, and intolerant of dissent. I would go so far as to say that some of the pastors can be abusive. Worst of all, they altogether lack biblical accountability. They are self-protective to the extent that I have known them to collectively flout Matthew 18 when applied to one of themselves. They seem to me not to be above reproach so much as above the law.
 
 # Coming up…
 
