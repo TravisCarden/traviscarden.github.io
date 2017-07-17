@@ -21,6 +21,10 @@ Sermons at OBC tend to be of a good length, center on Scripture, and emphasize t
 
 In summary, I believe that while the preaching at OBC has some admirable qualities, its defects render it on the whole dishonoring to God and harmful to its hearers.
 
+# II. Biblical Theology
+
+OBC has Calvinist leanings, but it's not comprehensively Reformed. (It is difficult to take seriously its claim to subscribe to the London Baptist Confession of 1689.) It is, in fact, somewhat doctrinally eclectic, and it suffers from a few over-developed theological innovations and misapplications. It does seem to be trending in a positive direction overall: In the time I attended, the church abandoned its "biblical" positions on elders totally abstaining from alcohol and women covering their heads during corporate prayer, distanced itself from Dispensationalism, embraced the doctrine of the Covenant of Works, and at least attempted to adopt a Christocentric mode of preaching. That said, it exhibits a surprising amount of doctrinal snobbery for a church that has changed its own commitments so often, and it can still be needlessly contentious about secondary matters. In general, I think the church has a higher opinion of itself in this area than warranted.
+
 # VII. Discipline
 
 The best thing I can say of OBC relative to church discipline is that they attempt to practice it at all--which, in an age of individualism that chafes at any hint of accountability, is saying _something_. Nevertheless, they pervert the practice so entirely that I'm afraid it might have been the lesser evil to have omitted it altogether. From disciplining where they acknowledge there has been no sin, to disciplining preemptively or retributively, to skipping whole steps of the Matthew 18 process, to refusing eventual reconciliation, to exempting pastors from accountability to the same process, and more, they have not failed in very many particulars to mock the biblical practice. The leaders have declined to discuss these matters when confronted. Suffice it to say that it is a point of unrepentant corporate sin.
@@ -31,4 +35,4 @@ OBC's leaders give every appearance of caring deeply about their church, and the
 
 # Coming up…
 
-Biblical theology, the gospel, conversion, evangelism, membership, and discipleship, as I get to them.
+The gospel, conversion, evangelism, membership, and discipleship, as I get to them.
