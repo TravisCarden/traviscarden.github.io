@@ -35,7 +35,7 @@ The best thing I can say of OBC relative to church discipline is that they attem
 
 # IX. Leadership
 
-OBC's leaders give every appearance of caring deeply about their church, and they clearly work hard in their roles. They seem, however, to misunderstand the nature of their authority, which they tend to lord over tender souls in their care. They are friendly people in general, but when it comes to shepherding, they tend to be impatient, controlling, and intolerant of dissent. I would go so far as to say that some of the pastors can be abusive. Worst of all, they altogether lack biblical accountability. They are self-protective to the extent that I have known them to collectively flout Matthew 18 when applied to one of themselves. They seem to me not to be above reproach so much as above the law.
+OBC's leaders give every appearance of caring deeply about their church, and they clearly work hard in their roles. They seem, however, to misunderstand the nature of their authority, which they tend to lord over tender souls in their care. They are friendly people in general, but when it comes to shepherding, they tend to be impatient, controlling, and intolerant of dissent. I would go so far as to say that some of the pastors can be abusive. Worst of all, they altogether lack biblical accountability. They are self-protective to the extent that I have known them to collectively flout Matthew 18 when applied to one of themselves. They seem to me not so much to be above reproach as above the law. More than any other reason, my family left OBC from the conviction that the pastors in particular, by their ideas and personal examples, were leading us away from Christ and from the purity of the gospel.
 
 # Coming up…
 
