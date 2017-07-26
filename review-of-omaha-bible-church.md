@@ -31,11 +31,11 @@ In terms of its objective content, OBC gets the gospel essentially right accordi
 
 # VI. Membership
 
-I cannot comment on membership at OBC since, I'm told, they have completely changed their practice since I left.
+I cannot comment on membership at OBC since, I'm told, it has completely changed its practice since I left.
 
 # VII. Discipline
 
-The best thing I can say of OBC relative to church discipline is that they attempt to practice it at all--which, in an age of individualism that chafes at any hint of accountability, is saying _something_. Nevertheless, they pervert the practice so entirely that I'm afraid it might have been the lesser evil to have omitted it altogether. From disciplining where they acknowledge there has been no sin, to disciplining preemptively or retributively, to skipping whole steps of the Matthew 18 process, to refusing eventual reconciliation, to exempting pastors from accountability to the same process, and more, they have not failed in very many particulars to mock the biblical practice. The leaders have declined to discuss these matters when confronted. Suffice it to say that it is a point of unrepentant corporate sin.
+The best thing I can say of OBC relative to church discipline is that it attempts to practice it at all--which, in an age of individualism that chafes at any hint of accountability, is saying _something_. Nevertheless, it perverts the practice so entirely that I'm afraid it might have been the lesser evil to have omitted it altogether. From disciplining where the leaders acknowledge there has been no sin, to disciplining preemptively or retributively, to skipping whole steps of the Matthew 18 process, to refusing eventual reconciliation, to exempting pastors from accountability to the same process, and more, it has not failed in very many particulars to mock the biblical practice. The leaders have declined to discuss these matters when confronted. Suffice it to say that it is a point of unrepentant corporate sin.
 
 # IX. Leadership
 
