@@ -29,6 +29,10 @@ OBC has Calvinist leanings, but it's not comprehensively Reformed. (It is diffic
 
 In terms of its objective content, OBC gets the gospel essentially right according to the historic Protestant understanding of it. I can't say it always gets the _implications_ right, and it certainly gets the _tone_ wrong sometimes, but you can't accuse it of being heterodox on this most essential point.
 
+# IV. Conversion
+
+OBC teaches an essentially biblical view of conversion in terms of God's work in regeneration and people's responsibility to repent and believe. It recognizes the danger of false conversion but overemphasizes it to an extent that tends to breed morbid introspection among tender souls and encourage judgmental attitudes in proud ones. Union with Christ enjoys comparatively little emphasis. The church has admittedly come a long way since my early days there, when nothing seemed more common than the hushed conversations in the halls about whether or not so-and-so was "_really_ saved"; but that is not exactly to say it has achieved a healthy attitude about conversion.
+
 # VI. Membership
 
 I cannot comment on membership at OBC since, I'm told, it has completely changed its practice since I left.
@@ -43,4 +47,4 @@ OBC's leaders give every appearance of caring deeply about their church, and the
 
 # Coming up…
 
-Conversion, evangelism, and discipleship, as I get to them.
+Evangelism and discipleship, as I get to them.
