@@ -2,6 +2,7 @@
 layout: page
 title: Review of Omaha Bible Church
 date: 2016-06-12 22:26:00 -0600
+description: A review of Omaha Bible Church (OBC), in Omaha, Nebraska, based on about eight years of personal experience (ending in 2015) and organized around the 9 Marks of a Healthy Church.
 ---
 
 Omaha Bible Church (OBC), in Omaha, Nebraska, is an independent Bible church with roots in religious fundamentalism and strong legalistic tendencies. It is generally within the pale of Protestant orthodoxy, but it has a problem with an angry spirit and abusive leaders. The following review is based on about eight years of personal experience (ending in 2015) and organized around the [9 Marks of a Healthy Church](https://9marks.org/about/).
