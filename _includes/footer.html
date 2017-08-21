@@ -28,3 +28,30 @@
   ga('create', 'UA-1809585-1', 'auto');
   ga('send', 'pageview');
 </script>
+
+<script>
+  // Google Analytics print event tracking script courtesy of Amit Agarwal:
+  // https://www.labnol.org/internet/track-print-web-pages/21021/
+  function s4() {
+    return Math.floor((1 + Math.random()) * 65536).toString(16).substring(1);
+  }
+  function guid() {
+    return s4() + s4() + "-" + s4() + "-" + s4() + "-" + s4() + "-" + s4() + s4() + s4();
+  }
+  (function() {
+    var GIF = "https://ssl.google-analytics.com/collect?v=1&t=event&ec=print&tid=UA-1809585-1&cid=" + guid() + "&z=" + Math.round(new Date().getTime() / 1e3).toString() + "&ea=" + encodeURIComponent(document.title) + "&el=" + encodeURIComponent(document.location.pathname);
+    var rule = "body:after{content:url(" + GIF + ")}";
+    var head = document.head || document.getElementsByTagName("head")[0];
+    var css = document.createElement("style");
+    if (css && head) {
+      css.setAttribute("type", "text/css");
+      css.setAttribute("media", "print");
+      if (css.styleSheet) {
+        css.styleSheet.cssText = rule;
+      } else {
+        css.appendChild(document.createTextNode(rule));
+      }
+      head.appendChild(css);
+    }
+  })();
+</script>
