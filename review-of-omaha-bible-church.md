@@ -43,10 +43,14 @@ I cannot comment on membership at OBC since, I'm told, it has completely changed
 
 The best thing I can say of OBC relative to church discipline is that it attempts to practice it at all--which, in an age of individualism that chafes at any hint of accountability, is saying _something_. Nevertheless, it perverts the practice so entirely that I'm afraid it might have been the lesser evil to have omitted it altogether. From disciplining where the leaders acknowledge there has been no sin, to disciplining preemptively or retributively, to skipping whole steps of the Matthew 18 process, to refusing eventual reconciliation, to exempting pastors from accountability to the same process, and more, it has not failed in very many particulars to mock the biblical practice. The leaders have declined to discuss these matters when confronted. Suffice it to say that it is a point of unrepentant corporate sin.
 
+# VIII. Discipleship
+
+OBC rightly emphasizes the need for Christian growth, but it takes a top-down, program-oriented approach that lacks the Spirit, in my opinion. Its emphasis on instruction is good for imparting basic doctrinal knowledge, but I for one found it somewhat barren of real spiritual edification and upbuilding fellowship. Casual "one anothering" was undervalued in favor of structured ministry busyness, and my family found it nearly impossible to build relationships outside official church activities. Mentoring relationships were just as hard to come by. I managed to find a couple of men to meet with at different times, but no matter how we looked, my wife and I never found _anyone_ to invest similarly in her. On the whole, fairly little of the spiritual growth we experienced in our time at OBC was actually connected with the church.
+
 # IX. Leadership
 
 OBC's leaders give every appearance of caring deeply about their church, and they clearly work hard in their roles. They seem, however, to misunderstand the nature of their authority, which they tend to lord over tender souls in their care. They are friendly people in general, but when it comes to shepherding, they tend to be impatient, controlling, and intolerant of dissent. I would go so far as to say that some of the pastors can be abusive. Worst of all, they altogether lack biblical accountability. They are self-protective to the extent that I have known them to collectively flout Matthew 18 when applied to one of themselves. They seem to me not so much to be above reproach as above the law. More than any other reason, my family left OBC from the conviction that the pastors in particular, by their ideas and personal examples, were leading us away from Christ and from the purity of the gospel.
 
 # Coming up…
 
-Evangelism and discipleship, as I get to them.
+Evangelism, as I get to it.
