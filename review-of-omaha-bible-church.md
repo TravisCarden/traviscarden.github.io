@@ -35,6 +35,10 @@ In terms of its objective content, OBC gets the gospel essentially right accordi
 
 OBC teaches an essentially biblical view of conversion in terms of God's work in regeneration and people's responsibility to repent and believe. It recognizes the danger of false conversion but overemphasizes it to an extent that tends to breed morbid introspection among tender souls and encourage judgmental attitudes in proud ones. Union with Christ enjoys comparatively little emphasis. The church has admittedly come a long way since my early days there, when nothing seemed more common than the hushed conversations in the halls about whether or not so-and-so was "_really_ saved"; but that is not exactly to say it has achieved a healthy attitude about conversion.
 
+# V. Evangelism
+
+OBC approaches evangelism in various ways, including organized efforts such as service projects and door-to-door evangelism, and training intended to equip individuals for casual evangelism. As I was never involved in these programs I cannot comment on them except to say that I applaud the priority. When I have witnessed gospel presentations at weddings or fellowship gatherings I have not always been satisfied with the clarity, and when it comes to motivating individual evangelism I have definitely seen some legalism at play. But there's probably more good than bad in this area. Thank God he uses earthen vessels.
+
 # VI. Membership
 
 I cannot comment on membership at OBC since, I'm told, it has completely changed its practice since I left.
@@ -50,7 +54,3 @@ OBC rightly emphasizes the need for Christian growth, but it takes a top-down, p
 # IX. Leadership
 
 OBC's leaders give every appearance of caring deeply about their church, and they clearly work hard in their roles. They seem, however, to misunderstand the nature of their authority, which they tend to lord over tender souls in their care. They are friendly people in general, but when it comes to shepherding, they tend to be impatient, controlling, and intolerant of dissent. I would go so far as to say that some of the pastors can be abusive. Worst of all, they altogether lack biblical accountability. They are self-protective to the extent that I have known them to collectively flout Matthew 18 when applied to one of themselves. They seem to me not so much to be above reproach as above the law. More than any other reason, my family left OBC from the conviction that the pastors in particular, by their ideas and personal examples, were leading us away from Christ and from the purity of the gospel.
-
-# Coming up…
-
-Evangelism, as I get to it.
