@@ -49,7 +49,7 @@ The best thing I can say of OBC relative to church discipline is that it attempt
 
 # VIII. Discipleship
 
-OBC rightly emphasizes the need for Christian growth, but it takes a top-down, program-oriented approach that lacks the Spirit, in my opinion. Its emphasis on instruction is good for imparting basic doctrinal knowledge, but I for one found it somewhat barren of real spiritual edification and upbuilding fellowship. Casual "one anothering" was undervalued in favor of structured ministry busyness, and my family found it nearly impossible to build relationships outside official church activities. Mentoring relationships were just as hard to come by. I managed to find a couple of men to meet with at different times, but no matter how we looked, my wife and I never found _anyone_ to invest similarly in her. On the whole, fairly little of the spiritual growth we experienced in our time at OBC was actually connected with the church.
+OBC rightly emphasizes the need for Christian growth, but it takes a top-down, program-oriented approach that lacks the Spirit, in my opinion. Its emphasis on instruction is good for imparting basic doctrinal knowledge, but I for one found it somewhat barren of real spiritual edification and upbuilding fellowship. Casual "one anothering" was undervalued in favor of structured ministry busyness, and my family found it nearly impossible to build relationships outside official church activities. On the whole, fairly little of the spiritual growth we experienced in our time at OBC was actually connected with the church.
 
 # IX. Leadership
 
