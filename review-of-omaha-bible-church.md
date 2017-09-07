@@ -8,10 +8,16 @@ image: /images/review-of-omaha-bible-church.jpg
 
 Omaha Bible Church (OBC), in Omaha, Nebraska, is an independent Bible church with roots in religious fundamentalism and strong legalistic tendencies. It is generally within the pale of Protestant orthodoxy, but it has a problem with an angry spirit and abusive leaders. The following review is based on about eight years of personal experience (ending in 2015) and organized around the [9 Marks of a Healthy Church](https://9marks.org/about/).
 
-**Note:** As this is a critical review, I wish to clarify up-front that it refers to OBC _as a ministry_ and is not directed at any of the fine people who attend there.
-
 * TOC
 {:toc}
+
+# Purpose & Principles
+
+This review is published for the benefit of those considering coming to or going from OBC. (I hope in the conclusion to provide a little comfort to some who have already left feeling hurt and abused.) While I have considered those who are happily attending OBC and sought to avoid offense where possible, they are not my intended audience, much less the leaders, to whom I brought my concerns privately long ago according to Scripture.
+
+Notwithstanding my own strong feelings, I have aimed at balance. I chose to organize my review around an accepted framework (the 9 Marks) to ensure treatment of only the most relevant subject matter, as free as possible from selection bias, with an agreed-upon assessment criterion outside myself. As a consequence of this choice, some otherwise significant subjects have received no treatment. For example, I said nothing concerning the quality of the ordinary _people_ of OBC. The fact is, I think there are some wonderful, godly people there; but there's no "mark" for that. Please don't read between the lines or conflate my opinion of them with my opinion of the ministry.
+
+I wrote this over the space of a year, with qualified counsel and peer review. I did my prayerful best to honestly consider the good and the bad of each subject and to treat it as directly and succinctly as possible. I restricted my material to what is already public knowledge, in fact or by right; and I tried to clearly distinguish between objective, verifiable fact and personal opinion. Some will disagree with my assessments. That's fine; I'm no prophet. Some will be tempted to judge my motives. They shouldn't; they're no prophets. On the day this review ceases to be necessary I will take it down with gladness and bid adieu to the whole distasteful business. (God haste the day!) Until then...
 
 # I. Preaching
 
