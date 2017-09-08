@@ -23,11 +23,11 @@ I wrote this over the space of a year, with qualified counsel and peer review. I
 
 Sermons at OBC tend to be of a good length, center on Scripture, and emphasize truth. Notwithstanding these things (which are good so far as they go), a number of characteristics of the preaching at OBC render it, in my judgment, something between unedifying and positively toxic. Two stand out:
 
-1. **Irreverence and inappropriate speech.** It should go without saying that the pulpit ought to be characterized by purity of speech, and to imagine that one should have to warn one's children not to imitate the behavior of one's own pastor there is absurd; but it came to that for me at OBC. I have heard the senior pastor from the pulpit call Mormons and Roman Catholics "stupid", refer to historical church figures with whom he disagrees as "sissies", and quip that he is "a lesbian trapped in a man's body". I need not defend my mention of these sayings since they are published in the public sermon archive where anyone on the Internet may listen to them under the banner of "the Word of the Lord".
+1. **Irreverence and inappropriate speech.** It should go without saying that the pulpit ought to be characterized by purity of speech, and to imagine that one should have to warn one's children not to imitate the behavior of one's own pastor there is absurd; but it came to that for me at OBC. I have heard the senior pastor from the pulpit call Mormons and Roman Catholics "stupid", refer to historical church figures with whom he disagrees as "sissies", and quip that he is "a lesbian trapped in a man's body". These sayings are published in the public sermon archive where anyone on the Internet may listen to them under the banner of "the Word of the Lord".
 
-1. **Distorted, hobby horse preaching.** In my experience, the preaching at OBC consistently misrepresents the content, emphasis, and tone of Scripture. There are a handful of major themes (mostly "liberal correctives") which seem to feature in every sermon whether they're in the text or not, while the real biblical message receives little or no treatment. The tone of the preaching is more often sarcastic and condescending than anything else. (The pastors argue that scripture itself is sarcastic. And sometimes it is, of course--but not always, about everything, and to every audience, whereas OBC's preaching more or less is.) In general, the preaching seems to be shaped more by the pastor's personality than by the Word, and the God thus portrayed is something of a caricature as a result.
+1. **Distorted, hobby horse preaching.** In my experience, the preaching at OBC consistently misrepresents the content, emphasis, and tone of Scripture. There are a handful of major themes (mostly "liberal correctives") which seem to feature in every sermon whether they're in the text or not, while the central biblical message receives little or no treatment. The tone of the preaching is more often sarcastic and condescending than anything else. (The pastors argue that scripture itself is sarcastic. And sometimes it is, of course--but not always, about everything, and to every audience, whereas OBC's preaching more or less is.) In general, the preaching seems to be shaped more by the pastor's personality than by the Word, and the God thus portrayed is something of a caricature as a result.
 
-In summary, I believe that while the preaching at OBC has some admirable qualities, its defects render it on the whole dishonoring to God and harmful to its hearers.
+In summary, while the preaching at OBC has some admirable qualities and I have benefited from it at times, I believe its defects render it on the whole dishonoring to God and harmful to its hearers.
 
 # II. Biblical Theology
 
@@ -35,7 +35,7 @@ OBC has Calvinist leanings, but it's not comprehensively Reformed. (It is diffic
 
 # III. The Gospel
 
-In terms of its objective content, OBC gets the gospel essentially right according to the historic Protestant understanding of it. I can't say it always gets the _implications_ right, and it certainly gets the _tone_ wrong sometimes, but you can't accuse it of being heterodox on this most essential point.
+In terms of its objective content, OBC gets the gospel essentially right according to the historic Protestant understanding of it. I can't say it always gets the _implications_ right, and it certainly gets the _tone_ wrong sometimes, but you can't accuse it of being heterodox on this most essential point. And of course, where Christ is proclaimed we can rejoice.
 
 # IV. Conversion
 
@@ -55,7 +55,7 @@ The best thing I can say of OBC relative to church discipline is that it attempt
 
 # VIII. Discipleship
 
-OBC rightly emphasizes the need for Christian growth, but it takes a top-down, program-oriented approach that lacks the Spirit, in my opinion. Its emphasis on instruction is good for imparting basic doctrinal knowledge, but I for one found it somewhat barren of real spiritual edification and upbuilding fellowship. Casual "one anothering" was undervalued in favor of structured ministry busyness, and my family found it nearly impossible to build relationships outside official church activities. On the whole, fairly little of the spiritual growth we experienced in our time at OBC was actually connected with the church.
+OBC rightly emphasizes the need for Christian growth, but it takes a top-down, program-oriented approach that can feel formulaic. Its emphasis on instruction is good for imparting basic doctrinal knowledge, but I for one found it somewhat barren of real spiritual edification and upbuilding fellowship. Casual "one anothering" was undervalued in favor of structured ministry busyness, and my family found it nearly impossible to build relationships outside official church activities. On the whole, fairly little of the spiritual growth we experienced in our time at OBC was actually connected with the church.
 
 # IX. Leadership
 
