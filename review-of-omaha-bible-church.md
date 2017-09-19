@@ -55,7 +55,7 @@ The best thing I can say of OBC relative to church discipline is that it attempt
 
 # VIII. Discipleship
 
-OBC rightly emphasizes the need for Christian growth, but it takes a top-down, program-oriented approach that can feel formulaic. Its emphasis on instruction is good for imparting basic doctrinal knowledge, but I for one found it somewhat barren of real spiritual edification and upbuilding fellowship. Casual "one anothering" was undervalued in favor of structured ministry busyness, and my family found it nearly impossible to build relationships outside official church activities. On the whole, fairly little of the spiritual growth we experienced in our time at OBC was actually connected with the church.
+OBC rightly emphasizes the need for Christian growth, but it takes a top-down, program-oriented approach that can feel formulaic. Its emphasis on instruction is good for imparting basic doctrinal knowledge, but I for one found it somewhat barren of real spiritual edification and upbuilding fellowship. Casual "one anothering" was undervalued in favor of structured ministry busyness, and my family found it extremely difficult to build relationships outside official church activities. On the whole, fairly little of the spiritual growth we experienced in our time at OBC was actually connected with the church.
 
 # IX. Leadership
 
@@ -63,4 +63,8 @@ OBC's leaders give every appearance of caring deeply about their church, and the
 
 # Conclusion
 
-I hope this review proves useful to some who are considering Omaha Bible Church. But I also have in mind my brothers and sisters who have already attended there. I've met many who now suffer the burden of legalism or the pain of pastoral abuse. If you’re like me, you need a fresh view of your Savior. I commend to you _The Heart of Christ_ by Thomas Goodwin. [Get a free ebook (original text) from Monergism](https://www.monergism.com/heart-christ-heaven-towards-sinners-earth-ebook) or [purchase the Puritan Paperback edition (modernized) from Banner of Truth](https://banneroftruth.org/us/store/christian-living/the-heart-of-christ/). May God bless you.
+In my opinion, Omaha Bible Church is a legitimate church but not a healthy one. I personally advise against it, among other reasons, on the grounds of Proverbs 22:24-25: "Make no friendship with a man given to anger, nor go with a wrathful man, lest you learn his ways and entangle yourself in a snare." (Many former members, myself included, point to an angry spirit growing in themselves as the first sign that something was wrong.)
+
+For my friends suffering the painful effects of spiritual abuse, [David Murray has a helpful roundup of resources on the subject](http://headhearthand.org/blog/2016/04/25/reformed-spotlight-spiritual-abuse-resources/). For those who feel their faith withered from legalism, I highly recommend _The Heart of Christ_ by Thomas Goodwin. [Get a free ebook (original text) from Monergism](https://www.monergism.com/heart-christ-heaven-towards-sinners-earth-ebook) or [purchase the Puritan Paperback edition (modernized) from Banner of Truth](https://banneroftruth.org/us/store/christian-living/the-heart-of-christ/).
+
+May God sanctify his church (beginning with me) and care for his suffering children ([Revelation 7:17](https://biblia.com/bible/esv/Rev7.17)). Amen.
