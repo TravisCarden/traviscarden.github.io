@@ -191,7 +191,7 @@ c.f. Jonah 2:9; Zephaniah 3:9; John 15:16; 1 Corinthians 15:10; Philippians 1:6;
 - **1 Corinthians 4:7** - For who sees anything different in you? _What do you have that you did not receive?_ If then you received it, why do you boast as if you did not receive it?
 - **John 3:6, 6:63** - "That which is born of the flesh is flesh, and that which is born of the Spirit is spirit. It is the Spirit who gives life; _the flesh is no help at all_."
 
-c.f. 1 Chronicles 29:14; John 5:44; Acts 3:16; Romans 1:8, 12:3; Ephesians 6:23; 2 Thessalonians 3:2
+c.f. 1 Chronicles 29:14; John 5:44; Acts 3:16; Romans 1:8, 12:3; Galatians 5:22; Ephesians 6:23; 2 Thessalonians 3:2
 
 ## Can men do _anything_ to help themselves?
 
