@@ -14,7 +14,7 @@ social:
     - http://www.linkedin.com/in/traviscarden
 
 # Build settings
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
