@@ -112,8 +112,8 @@ Yet Jesus takes the name "the Alpha and the Omega".
 
 God is the King of kings and Lord of lords.
 
-- **Deuteronomy 10:17** - For the Lord your God is God of gods and Lord of lords, the great, the mighty, and the awesome God, who is not partial and takes no bribe.
-- **Psalm 136:1-3** - Give thanks to the Lord, for he is good, for his steadfast love endures forever. Give thanks to the God of gods, for his steadfast love endures forever. Give thanks to the Lord of lords, for his steadfast love endures forever;
+- **Deuteronomy 10:17** - For the Lord your God is *God of gods and Lord of lords*, the great, the mighty, and the awesome God, who is not partial and takes no bribe.
+- **Psalm 136:1-3** - Give thanks to the Lord, for he is good, for his steadfast love endures forever. Give thanks to *the God of gods*, for his steadfast love endures forever. Give thanks to *the Lord of lords*, for his steadfast love endures forever;
 - **1 Timothy 6:13-15** - I charge you in the presence of God, who gives life to all things, and of Christ Jesus, who in his testimony before Pontius Pilate made the good confession, to keep the commandment unstained and free from reproach until the appearing of our Lord Jesus Christ, which he will display at the proper time—_he who is the blessed and only Sovereign, the King of kings and Lord of lords_, who alone has immortality, who dwells in unapproachable light, whom no one has ever seen or can see. To him be honor and eternal dominion. Amen.
 
 Yet Jesus is called the King of kings and Lord of lords.
@@ -125,26 +125,40 @@ Yet Jesus is called the King of kings and Lord of lords.
 
 While the Bible recognizes occasional national "saviors" raised up to deliver Israel from earthly oppressors, God declares that He is the only Savior of His people in the ultimate and religious sense.
 
-- **Isaiah 43:11** - I, I am the Lord [Jehovah], and besides me there is no savior.
-- **Isaiah 49:26** - Then all flesh shall know that I am the Lord [Jehovah] your Savior, and your Redeemer, the Mighty One of Jacob.
-- **Hosea 13:4** - But I am the Lord [Jehovah] your God from the land of Egypt; you know no God but me, and besides me there is no savior.
+- **Isaiah 43:11** - I, I am the Lord [Jehovah], and *besides me there is no savior*.
+- **Isaiah 49:26** - Then all flesh shall know that *I am the Lord [Jehovah] your Savior*, and your Redeemer, the Mighty One of Jacob.
+- **Hosea 13:4** - But I am the Lord [Jehovah] your God from the land of Egypt; *you know no God but me, and besides me there is no savior*.
 
 Yet Jesus is designated the Savior, not occasionally but officially, not nationally but spiritually, and not temporally but eternally.
 
-- **Luke 2:11** - For unto you is born this day in the city of David a Savior, who is Christ the Lord.
-- **John 4:42** - They said to the woman, "It is no longer because of what you said that we believe, for we have heard for ourselves, and we know that this is indeed the Savior of the world."
-- **Acts 5:31** - God exalted him at his right hand as Leader and Savior, to give repentance to Israel and forgiveness of sins.
-- **Ephesians 5:23** - For the husband is the head of the wife even as Christ is the head of the church, his body, and is himself its Savior.
-- **2 Timothy 1:10** - and which now has been manifested through the appearing of our Savior Christ Jesus, who abolished death and brought life and immortality to light through the gospel
-- **Titus 1:4** - Grace and peace from God the Father and Christ Jesus our Savior.
-- **Titus 3:5-6** - he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit, whom he poured out on us richly through Jesus Christ our Savior
-- **2 Peter 1:11** - For in this way there will be richly provided for you an entrance into the eternal kingdom of our Lord and Savior Jesus Christ.
-- **2 Peter 2:20** - For if, after they have escaped the defilements of the world through the knowledge of our Lord and Savior Jesus Christ, they are again entangled in them and overcome, the last state has become worse for them than the first.
-- **2 Peter 3:18** - But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and to the day of eternity. Amen.
-- **1 John 4:14** - And we have seen and testify that the Father has sent his Son to be the Savior of the world.
-- **Titus 2:13** - waiting for our blessed hope, the appearing of the glory of our great God and Savior Jesus Christ
-- **2 Peter 1:1** - To those who have obtained a faith of equal standing with ours by the righteousness of our God and Savior Jesus Christ
+- **Luke 2:11** - For unto you is born this day in the city of David *a Savior, who is Christ the Lord*.
+- **John 4:42** - They said to the woman, "It is no longer because of what you said that we believe, for we have heard for ourselves, and we know that *this is indeed the Savior of the world*."
+- **Acts 5:31** - *God exalted him at his right hand as Leader and Savior*, to give repentance to Israel and forgiveness of sins.
+- **Ephesians 5:23** - For the husband is the head of the wife even as *Christ is the head of the church, his body, and is himself its Savior*.
+- **2 Timothy 1:10** - and which now has been manifested through the appearing of *our Savior Christ Jesus*, who abolished death and brought life and immortality to light through the gospel
+- **Titus 1:4** - Grace and peace from God the Father and *Christ Jesus our Savior*.
+- **Titus 3:5-6** - he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit, whom he poured out on us richly through *Jesus Christ our Savior*
+- **2 Peter 1:11** - For in this way there will be richly provided for you an entrance into the eternal kingdom of *our Lord and Savior Jesus Christ*.
+- **2 Peter 2:20** - For if, after they have escaped the defilements of the world through the knowledge of *our Lord and Savior Jesus Christ*, they are again entangled in them and overcome, the last state has become worse for them than the first.
+- **2 Peter 3:18** - But grow in the grace and knowledge of *our Lord and Savior Jesus Christ*. To him be the glory both now and to the day of eternity. Amen.
+- **1 John 4:14** - And we have seen and testify that *the Father has sent his Son to be the Savior of the world*.
+- **Titus 2:13** - waiting for our blessed hope, the appearing of the glory of *our great God and Savior Jesus Christ*
+- **2 Peter 1:1** - To those who have obtained a faith of equal standing with ours by the righteousness of *our God and Savior Jesus Christ*
 - c.f. Matthew 1:21, Acts 13:23, Philippians 3:20, etc.
+
+### Husband/Bridegroom
+
+God declares Himself to be the husband and bridegrom of God's people.
+
+- **Isaiah 54:5** - *For your husband is your Maker,* Whose name is the Lord of hosts; And your Redeemer is the Holy One of Israel, Who is called the God of all the earth.
+- **Jeremiah 31:32** - not like the covenant which I made with their fathers in the day I took them by the hand to bring them out of the land of Egypt, My covenant which they broke, although *I was a husband to them," declares the Lord*.
+- **Jeremiah 31:3-4, 33** - *The Lord says... Israel, my bride*, I will rebuild you... *"I was a husband to them,"* declares the Lord
+- c.f. Isaiah 62:4-5, Jeremiah 2:2, Ezekiel 16:8-14, Hosea 2:7
+
+Yet Jesus the News Testament clearly understands Jesus to be the bridegroom.
+
+- **2 Corinthians 11:2** - for *I betrothed you to one husband*, so that *to Christ I might present you as a pure virgin*.
+- **Revelation 19:7-9** - *the marriage of the Lamb* has come and His bride has made herself ready... Blessed are those who are invited to *the marriage supper of the Lamb*.
 
 ## Jesus partakes of the prerogatives of deity
 
@@ -152,13 +166,12 @@ Yet Jesus is designated the Savior, not occasionally but officially, not nationa
 
 God declares that He shares His glory with no one else.
 
-- Isaiah 42:8,11 - I am the Lord; that is my name; my glory I give to no other, nor my praise to carved idols. For my own sake, for my own sake, I do it, for how should my name be profaned? My glory I will not give to another.
+- **Isaiah 42:8,11** - I am the Lord; that is my name; *my glory I give to no other*, nor my praise to carved idols. For my own sake, for my own sake, I do it, for how should my name be profaned? *My glory I will not give to another.*
 
 Yet Jesus shares the Father's glory.
 
-- **John 17:5** - And now, Father, glorify me in your own presence with the glory that I had with you before the world existed.
-- **John 17:24** - Father, I desire that they also, whom you have given me, may be with me where I am, to see my glory that you have given me because you loved me before the foundation of the world.
-- c.f. 2 Peter 3:18
+- **John 17:5** - And now, *Father, glorify me* in your own presence with *the glory that I had with you before the world existed*.
+- c.f. John 17:24, 2 Peter 3:18
 
 ### He receives religious worship
 
@@ -219,18 +232,18 @@ Yet Jesus accepts worship.
 - **John 5:26** - For as the Father has life in himself, so he has granted the Son also to have life in himself.
 - c.f. [I Am](#i-am).
 
-### Eternality
+### Unchangeableness (aka immutability)
+
+- **Hebrews 13:8** - Jesus Christ is the same yesterday and today and forever.
+- **Hebrews 1:12** - like a robe you will roll them up, like a garment they will be changed. But you are the same, and your years will have no end."
+
+### Eternity or eternality
 
 - **Micah 5:2** - But you, O Bethlehem Ephrathah, who are too little to be among the clans of Judah, from you shall come forth for me one who is to be ruler in Israel, _whose coming forth is from of old, from ancient days_.
 - **Isaiah 9:6** - For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, _Everlasting Father_, Prince of Peace.
 - **John 1:1-2** - _In the beginning was the Word_, and the Word was with God, and the Word was God. _He was in the beginning with God._
 - **Hebrews 7:3** - He is without father or mother or genealogy, _having neither beginning of days nor end of life, but resembling the Son_ of God he continues a priest forever.
 - c.f. [The Alpha and the Omega](#the-alpha-and-the-omega)
-
-### Unchangeableness (aka immutability)
-
-- **Hebrews 13:8** - Jesus Christ is the same yesterday and today and forever.
-- **Hebrews 1:12** - like a robe you will roll them up, like a garment they will be changed. But you are the same, and your years will have no end."
 
 ### et al (fullness of deity)
 
@@ -246,7 +259,7 @@ Yet Jesus accepts worship.
 God specifically disclaims any help or agency in creation outside himself.
 
 - **Isaiah 44:24** - Thus says the Lord, your Redeemer, who formed you from the womb: "I am the Lord, who made all things, who _alone_ stretched out the heavens, who spread out the earth _by myself_,
-- c.f. Job 9:8
+- c.f. Job 9:8, Isaiah 45:18, 54:5
 
 And yet Jesus is repeatedly attributed with the work of creation.
 
