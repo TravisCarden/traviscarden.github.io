@@ -220,11 +220,6 @@ Yet Jesus accepts worship.
 - **John 14:1** - "Let not your hearts be troubled. Believe in God; believe also in me.
 - c.f. John 10:27
 
-### He forgives sins
-
-- **Mark 2:5-7** - And when Jesus saw their faith, he said to the paralytic, "Son, your sins are forgiven." Now some of the scribes were sitting there, questioning in their hearts, "Why does this man speak like that? He is blaspheming! Who can forgive sins but God alone?"
-- **Luke 5:22-25** - When Jesus perceived their thoughts, he answered them, "Why do you question in your hearts? Which is easier, to say, 'Your sins are forgiven you,' or to say, 'Rise and walk'? _But that you may know that the Son of Man has authority on earth to forgive sins_"—he said to the man who was paralyzed—"I say to you, rise, pick up your bed and go home." And immediately he rose up before them and picked up what he had been lying on and went home, glorifying God.
-
 ## Jesus possesses the incommunicable attributes of deity
 
 ### Independence (aka aseity or self-existence)
@@ -268,6 +263,11 @@ And yet Jesus is repeatedly attributed with the work of creation.
 - **1 Corinthians 8:6** - Jesus Christ, through whom are all things and through whom we exist.
 - **Hebrews 1:2** - but in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world.
 - **Hebrews 3:3-4** - For Jesus has been counted worthy of more glory than Moses—as much more glory as the builder of a house has more honor than the house itself. (For every house is built by someone, _but the builder of all things is God_.)
+
+### Forgiveness of sins
+
+- **Mark 2:5-7** - And when Jesus saw their faith, he said to the paralytic, "Son, your sins are forgiven." Now some of the scribes were sitting there, questioning in their hearts, "Why does this man speak like that? He is blaspheming! Who can forgive sins but God alone?"
+- **Luke 5:22-25** - When Jesus perceived their thoughts, he answered them, "Why do you question in your hearts? Which is easier, to say, 'Your sins are forgiven you,' or to say, 'Rise and walk'? _But that you may know that the Son of Man has authority on earth to forgive sins_"—he said to the man who was paralyzed—"I say to you, rise, pick up your bed and go home." And immediately he rose up before them and picked up what he had been lying on and went home, glorifying God.
 
 ### Final judgment
 
