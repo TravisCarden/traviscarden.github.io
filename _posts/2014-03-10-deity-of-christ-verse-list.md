@@ -160,6 +160,33 @@ Yet Jesus the News Testament clearly understands Jesus to be the bridegroom.
 - **2 Corinthians 11:2** - for *I betrothed you to one husband*, so that *to Christ I might present you as a pure virgin*.
 - **Revelation 19:7-9** - *the marriage of the Lamb* has come and His bride has made herself ready... Blessed are those who are invited to *the marriage supper of the Lamb*.
 
+## Jesus possesses the incommunicable attributes of deity
+
+### Independence (aka aseity or self-existence)
+
+- **John 5:26** - For as the Father has life in himself, so he has granted the Son also to have life in himself.
+- c.f. [I Am](#i-am).
+
+### Unchangeableness (aka immutability)
+
+- **Hebrews 13:8** - Jesus Christ is the same yesterday and today and forever.
+- **Hebrews 1:12** - like a robe you will roll them up, like a garment they will be changed. But you are the same, and your years will have no end."
+
+### Eternity or eternality
+
+- **Micah 5:2** - But you, O Bethlehem Ephrathah, who are too little to be among the clans of Judah, from you shall come forth for me one who is to be ruler in Israel, _whose coming forth is from of old, from ancient days_.
+- **Isaiah 9:6** - For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, _Everlasting Father_, Prince of Peace.
+- **John 1:1-2** - _In the beginning was the Word_, and the Word was with God, and the Word was God. _He was in the beginning with God._
+- **Hebrews 7:3** - He is without father or mother or genealogy, _having neither beginning of days nor end of life, but resembling the Son_ of God he continues a priest forever.
+- c.f. [The Alpha and the Omega](#the-alpha-and-the-omega)
+
+### et al (fullness of deity)
+
+- **Colossians 1:15** - _He is the image of the invisible God_, the firstborn of all creation.
+- **2 Corinthians 4:4** - In their case the god of this world has blinded the minds of the unbelievers, to keep them from seeing the light of the gospel of the glory of _Christ, who is the image of God_.
+- **Colossians 2:9-10** - For in him [Christ] _the whole fullness of deity dwells bodily_, and you have been filled in him, who is the head of all rule and authority.
+- **Hebrews 1:2-3** - but in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world. _He is the radiance of the glory of God and the exact imprint of his nature_, and he upholds the universe by the word of his power.
+
 ## Jesus partakes of the prerogatives of deity
 
 ### He shares God's glory
@@ -219,34 +246,6 @@ Yet Jesus accepts worship.
 - **Acts 16:31** - And they said, "Believe in the Lord Jesus, and you will be saved, you and your household."
 - **John 14:1** - "Let not your hearts be troubled. Believe in God; believe also in me.
 - c.f. John 10:27
-
-## Jesus possesses the incommunicable attributes of deity
-
-### Independence (aka aseity or self-existence)
-
-- **John 5:26** - For as the Father has life in himself, so he has granted the Son also to have life in himself.
-- c.f. [I Am](#i-am).
-
-### Unchangeableness (aka immutability)
-
-- **Hebrews 13:8** - Jesus Christ is the same yesterday and today and forever.
-- **Hebrews 1:12** - like a robe you will roll them up, like a garment they will be changed. But you are the same, and your years will have no end."
-
-### Eternity or eternality
-
-- **Micah 5:2** - But you, O Bethlehem Ephrathah, who are too little to be among the clans of Judah, from you shall come forth for me one who is to be ruler in Israel, _whose coming forth is from of old, from ancient days_.
-- **Isaiah 9:6** - For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, _Everlasting Father_, Prince of Peace.
-- **John 1:1-2** - _In the beginning was the Word_, and the Word was with God, and the Word was God. _He was in the beginning with God._
-- **Hebrews 7:3** - He is without father or mother or genealogy, _having neither beginning of days nor end of life, but resembling the Son_ of God he continues a priest forever.
-- c.f. [The Alpha and the Omega](#the-alpha-and-the-omega)
-
-### et al (fullness of deity)
-
-- **Colossians 1:15** - _He is the image of the invisible God_, the firstborn of all creation.
-- **2 Corinthians 4:4** - In their case the god of this world has blinded the minds of the unbelievers, to keep them from seeing the light of the gospel of the glory of _Christ, who is the image of God_.
-- **Colossians 2:9-10** - For in him [Christ] _the whole fullness of deity dwells bodily_, and you have been filled in him, who is the head of all rule and authority.
-- **Hebrews 1:2-3** - but in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world. _He is the radiance of the glory of God and the exact imprint of his nature_, and he upholds the universe by the word of his power.
-
 ## Jesus is attributed with the works of deity
 
 ### Creation
