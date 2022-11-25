@@ -172,6 +172,12 @@ Michael Horton's [Ordinary](https://christianaudio.com/ordinary-michael-horton-a
 
 Michael Horton titles [Part 1](https://christianaudio.com/catalogsearch/advanced/result/?author=%22Michael%20Horton%22) & [Part 2](https://christianaudio.com/catalogsearch/advanced/result/?author=%22Michael%20S.%20Horton%22).
 
+## Nancy Pearcey
+
+I consider [Total Truth](https://christianaudio.com/total-truth-nancy-pearcey-audiobook-download) a must for understanding the "spirit of the age" and engaging with the assumed beliefs and ideas that "set themselves up against the knowledge of God" in our generation. Eye-opening. It's in a category all its own.
+
+[All Nancy Pearcey titles.](https://christianaudio.com/catalogsearch/advanced/result/?author=%22Pearcey%22)
+
 ## Paul David Tripp
 
 Paul Tripp writes as a pastor/counselor with particular insight in the areas of relationships and communication. [Instruments in the Redeemer's Hands](https://christianaudio.com/instruments-redeemers-hands-paul-david-tripp-audiobook-download) is a classic.
