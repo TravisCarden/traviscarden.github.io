@@ -200,7 +200,7 @@ It's easy for me to recommend R.C. Sproul. It's hard to choose just a few titles
 
 ## Eric Metaxas
 
-Metaxas' [Bonhoeffer](https://christianaudio.com/bonhoeffer-eric-metaxas-audiobook-download)) tells the incredible true story of the German Lutheran pastor, theologian, and anti-Nazi dissident.
+Metaxas' [Bonhoeffer](https://christianaudio.com/bonhoeffer-eric-metaxas-audiobook-download) tells the incredible true story of the German Lutheran pastor, theologian, and anti-Nazi dissident.
 
 [All Eric Metaxas titles.](https://christianaudio.com/catalogsearch/advanced/result/?author=%22Eric%20Metaxas%22)
 
