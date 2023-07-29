@@ -2,7 +2,7 @@
 layout: post
 title: Christianaudio Audiobook Recommendations
 date: 2022-11-24 21:32:00 -0500
-description: A few times a year, Christianaudio puts most of their audiobooks on sale for between $6 and $10, providing a great opportunity to stock up on good listens. But they aren't entirely easy to find with the clumsy site search and no category browsing at all. Here are some recommendations to help.
+description: A few times a year, Christianaudio puts most of their audiobooks on sale for between $6 and $10, providing a great opportunity to stock up on good listens. But the best ones aren't entirely easy to find with the clumsy site search and no category browsing at all. Here are some recommendations to help.
 ---
 
 {{ page.description }}
