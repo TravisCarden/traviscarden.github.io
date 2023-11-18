@@ -246,6 +246,7 @@ Yet Jesus accepts worship.
 - **Acts 16:31** - And they said, "Believe in the Lord Jesus, and you will be saved, you and your household."
 - **John 14:1** - "Let not your hearts be troubled. Believe in God; believe also in me.
 - c.f. John 10:27
+
 ## Jesus is attributed with the works of deity
 
 ### Creation
